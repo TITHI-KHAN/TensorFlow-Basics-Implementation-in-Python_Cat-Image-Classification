@@ -16,4 +16,4 @@ The provided code involves building a convolutional neural network (CNN) to clas
 
 7. **Prediction and Visualization**: After training, the model makes predictions on a sample image (`Cats.jpg`) and visualizes the result along with the image. It also saves the model for future use.
 
-8. **Model Evaluation**: The saved model is loaded, and then, predictions are made on a random image (`dog.jpg`). The prediction label, confidence, and prediction value are printed, and the image with the prediction label is visualized.
+8. **Model Evaluation**: The saved model is loaded, and then, predictions are made on a random image (`dog.jpg`),  (`Horse.jpg`), and  (`car.jpg`). The prediction label, confidence, and prediction value are printed, and the image with the prediction label is visualized.
